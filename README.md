@@ -1,4 +1,4 @@
-### Hi! I'm Brique au bob 👋
+## Hi! I'm Brique au bob 👋
 
 <!--
 **BriqueAuBob/briqueaubob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
