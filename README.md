@@ -1,8 +1,7 @@
-<div style='text-algin:center;'>
+<p align='center'>
   ## Hi! I'm Brique au bob 👋
-
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBriqueAuBob&count_bg=%230050F1&title_bg=%234B4B4B&icon=github.svg&icon_color=%23FFFFFF&title=hmpsmp&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
+</p>
+<img align='center' src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBriqueAuBob&count_bg=%231058E8&title_bg=%23393939&icon=github.svg&icon_color=%23FFFFFF&title=hmpsmp&edge_flat=false"/>
 
 
 <!--
