@@ -5,6 +5,8 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBriqueAuBob&count_bg=%231058E8&title_bg=%23393939&icon=github.svg&icon_color=%23FFFFFF&title=hmpsmp&edge_flat=false"/>
 </p>
 
+![Brique au bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=vue-dark&show_icons=true)
+
 
 <!--
 **BriqueAuBob/briqueaubob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
