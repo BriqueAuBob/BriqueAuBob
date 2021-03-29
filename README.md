@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-![Brique au bob's GitHub stats](https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=vue-dark&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=vue-dark&show_icons=true"/>
 </p>
 
 
