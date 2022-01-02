@@ -9,7 +9,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=briqueaubob&theme=vue-dark&show_icons=true"/>
 </p>
 
-
+<p align="center">
+  <a href="https://app.daily.dev/BriqueAuBob"><img src="https://api.daily.dev/devcards/cd86be2f95e8448d816688a988ed3995.png?r=2hl" width="400" alt="Brique au bob's Dev Card"/></a>
+</p>
 <!--
 **BriqueAuBob/briqueaubob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
