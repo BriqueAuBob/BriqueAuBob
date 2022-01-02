@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://app.daily.dev/BriqueAuBob"><img src="https://github.com/briqueaubob/briqueaubob/blob/master/devcard.svg" width="400" alt="Brique au bob's Deva Card"/></a>
+  <a href="https://app.daily.dev/BriqueAuBob"><img src="https://github.com/briqueaubob/briqueaubob/blob/main/devcard.svg" width="400" alt="Brique au bob's Dev Card"/></a>
 </p>
 <!--
 **BriqueAuBob/briqueaubob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
