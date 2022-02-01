@@ -27,5 +27,7 @@ JSON             16 mins         █░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
---- 
+<!--START_SECTION:readme-info-->
+<!--END_SECTION:readme-info-->
+
 ![https://app.daily.dev/BriqueAuBob](https://github.com/briqueaubob/briqueaubob/blob/main/devcard.svg)
