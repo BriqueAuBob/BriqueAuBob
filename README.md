@@ -16,6 +16,8 @@ Hi! I'm Brique au bob 👋
 ---
 ![](https://komarev.com/ghpvc/?username=BriqueAuBob&label=Visitors+Count&color=brightgreen)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 --- 
 ![https://app.daily.dev/BriqueAuBob](https://github.com/briqueaubob/briqueaubob/blob/main/devcard.svg)
