@@ -13,8 +13,9 @@ Hi! I'm Brique au bob 👋
 ## 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BriqueAuBob&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
----
+## Statistics
 ![](https://komarev.com/ghpvc/?username=BriqueAuBob&label=Visitors+Count&color=brightgreen)
+
 
 <!--START_SECTION:waka-->
 ```text
