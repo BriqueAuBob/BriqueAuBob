@@ -29,5 +29,3 @@ Blade Template   47 mins         ██▒░░░░░░░░░░░░�
 
 <!--START_SECTION:readme-info-->
 <!--END_SECTION:readme-info-->
-
-![https://app.daily.dev/BriqueAuBob](https://github.com/briqueaubob/briqueaubob/blob/main/devcard.svg)
