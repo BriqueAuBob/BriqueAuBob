@@ -1,6 +1,6 @@
 Hi! I'm Brique au bob 👋
 
-## 🌐Socials
+## 🌐Discord
 [![Discord Presence](https://lanyard.cnrad.dev/api/307531336388968458)](https://discord.com/users/307531336388968458) 
 
 # 💻Tech Stack
