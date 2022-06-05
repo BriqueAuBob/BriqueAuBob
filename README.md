@@ -15,7 +15,7 @@ Hi! I'm Brique au bob 👋
 <!--START_SECTION:waka-->
 
 ```text
-Other   3 hrs 37 mins   ████████████████████████▒   97.01 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
